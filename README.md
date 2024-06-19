@@ -1,4 +1,4 @@
-# Chess-AI-pygame-Minimax-
+# Chess-AI-pygame-Minimax
 ## _Using the minimax algorithm (ALPHA BETA PRUNING)_ 
 
 #### this code need a lot of optimization
